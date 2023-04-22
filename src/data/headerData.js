@@ -1,9 +1,9 @@
 import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
-    name: 'Sreerag Rajan',
-    title: "Web Developer",
-    desciption:"Life may be a meandering path but don't worry about it, rather enjoy it. It is about the journey, not the destination so explore all that comes your way, learn and grow from it, for this journey only happens once.",
-    image: 'https://avatars.githubusercontent.com/u/85482640?v=4',
+    name: 'Gastón De Schant',
+    title: "Software Engineer Student",
+    desciption:"As a software engineer, I am deeply passionate about leveraging technology to create innovative solutions that make a real difference in people's lives. I am constantly seeking out new and exciting projects that challenge me to push the limits of what's known, and I thrive in collaborative environments where I can work with like-minded professionals to bring bold ideas to life.",
+    image: 'https://avatars.githubusercontent.com/u/65664359?s=400&u=b0b105953c22168914f0bc3ecf98b82e2d800e98&v=4',
     resumePdf: resume
 }
