@@ -9,7 +9,7 @@
     
     // Next JS
     // Nuxt JS
-    "Node JS",
+    // "Node JS",
     // Vue
     // Angular
     "Docker",
@@ -47,7 +47,7 @@
     // Go
     // PHP
     "Flutter",
-    "Dart",
+    // "Dart",
     "Typescript",
     // Swift
     "Git",
@@ -61,7 +61,7 @@
     // VuetifyJS
     // MySQL
     "PostgreSQL",
-    // AWS
+    "AWS",
     "Firebase",
     // Blender
     // Premiere Pro
